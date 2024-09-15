@@ -1,7 +1,7 @@
 {
-    "name": "AAA淘宝订单",
+    "name": "淘宝订单助手",
     "version": "0.0.0.1",
-    "homepage_url": "https://www.bing.com",
+    "homepage_url": "https://github.com/Wonvy/Edge_taobaoOrder",
     "options_page": "./popup/popup.html",
     "manifest_version": 3,
     "description": "执行网页代码",
