@@ -1,0 +1,17 @@
+#left-column {
+  resize: horizontal;
+  overflow: auto;
+}
+
+/* 如果使用 jQuery UI 或类似库 */
+.splitter {
+  background: #aaa;
+  width: 5px;
+  cursor: ew-resize;
+}
+
+#output {
+  position: absolute;
+  height: 100%;
+  overflow-y: auto;
+}
