@@ -2,3 +2,5 @@
 2.侧边栏窗口统计当前的项目并汇总金额，可以保存为excel文件。
 
 主要用来报销用
+![image](public/README/1.png)
+![image](public/README/2.png)
